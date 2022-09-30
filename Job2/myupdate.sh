@@ -1,0 +1,9 @@
+#!/bin/zsh
+brew update
+
+
+
+
+
+
+
