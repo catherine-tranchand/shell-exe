@@ -1,6 +1,6 @@
 
 #!/bin/zsh
-cat $2 > $1
+cat myfile.txt  > copyfile.txt
 
 
 
